@@ -1,0 +1,9 @@
+steps to create
+===============
+How to Create a Landing Page in HTML
+------------------------------------
+Create the basic structure.
+Create a navigation bar.
+Stick the navbar to the top of the screen.
+Create a great background.
+Add some style.
